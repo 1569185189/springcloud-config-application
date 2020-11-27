@@ -1,1 +1,2 @@
-master application-test.yml
+config: 
+  info: master application-test.yml
