@@ -1,1 +1,2 @@
-master application-pro.yml
+config: 
+  info: master application-pro.yml
